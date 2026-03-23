@@ -1,0 +1,1 @@
+# Historical Price Summary (2024‑01‑15 to 2025‑01‑15)\n\n- **Average Closing Price:** $210.45\n- **Minimum Closing Price:** $164.08\n- **Maximum Closing Price:** $250.42\n- **Last Close (2025‑01‑15):** $248.76\n- **Total Trading Days:** 252\n- **Average Daily Volume:** 61,927,964 shares\n\n*Data represents daily OHLCV for the period; full dataset omitted for brevity.*
